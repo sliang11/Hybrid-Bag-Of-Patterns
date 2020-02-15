@@ -1,4 +1,6 @@
-This repository holds the source code and raw experimental results of DASFAA 2020 paper 34. This repository is for reviewing purposes only. All identity information has been hidden.
+This repository holds the source code and raw experimental results of Hybrid-Bag-Of-Patterns (HBOP), an BOP-based time series classification method with linear time complexity and enhanced accuracy. It is presented in the following paper.
+
+    Shen Liang, Yanchun Zhang, Jiangang Ma: Enhancing Linear Time Complexity Time Series Classification with Hybrid Bag-Of-Patterns. To appear in DASFAA 2020.
 
 # How to use the code
 
